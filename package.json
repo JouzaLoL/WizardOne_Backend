@@ -1,0 +1,28 @@
+{
+  "name": "wizardone_backend",
+  "version": "1.0.0",
+  "description": "Backend for the WizardOne",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JouzaLoL/WizardOne_Backend.git"
+  },
+  "author": "Josef Vacek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JouzaLoL/WizardOne_Backend/issues"
+  },
+  "homepage": "https://github.com/JouzaLoL/WizardOne_Backend#readme"
+}
